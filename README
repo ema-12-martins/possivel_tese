@@ -18,3 +18,19 @@ The first step was idealize
     Nvidia has been working on its own similar technology for AI-powered NPCs in games, where you speak freely to video game characters. Microsoft has also been partnering closely with Inworld AI to eventually bring AI characters to Xbox, allowing game developers to use generative AI characters, storylines, and more. Microsoft has also created its own Muse AI model that generates gameplay, designed initially for game developers to create a game environment for prototyping and ideating. 
 
     [click here to read more](https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype)
+
+3. **AI model could generate examples of gameplay from a single screenshot**
+
+    That’s the idea behind Microsoft’s Muse, a transformer. The result is a model that, when prompted with a screenshot of the game, can generate multiple examples of gameplay, which can extend up to several minutes in length.
+
+    Muse (also known as the World and Human Action Model, or WHAM) was trained on human gameplay data from the multiplayer action game Bleeding Edge. 
+
+    Muse isn’t the first AI model capable of generating gameplay. Notable predecessors include Google DeepMind’s Genie, Tencent’s GameGen-X, and GameNGen. Unlike prior models, Muse was trained on real-world human gameplay data that includes image data from gameplay and corresponding controller inputs. Genie and GameGen-X, by contrast, didn’t have access to controller inputs and instead trained on publicly available image data from various games.
+
+    Muse also uses an autoregressive transformer architecture, which is uncommon for a model that generates images (gameplay, like video, is a series of images in sequence). GameNGen and GameGen-X, meanwhile, use specialized diffusion models to generate gameplay, and again don’t model controller input.
+
+    **Muse and the WHAM Demonstrator are available for download from HuggingFace.**
+
+    The clips are generated at a resolution of just 380 by 180 pixels and 10 frames per second, which is far too low for an enjoyable gameplay experience. Muse is also limited to generating gameplay similar to Bleeding Edge. 
+
+    [click here to read more](https://spectrum.ieee.org/ai-video-games)
