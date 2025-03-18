@@ -1,5 +1,11 @@
 
-The first step was idealize 
+# Idealization
+
+Some people miss out on playing some of the most popular games simply because they don't have a partner to play with. That’s the problem that inspired this project.
+
+The initial idea was to create a game designed for pairs, but if a user doesn’t have someone to play with, they can play with an AI tool that learns alongside them, adjusting its abilities based on the user’s skills. This idea was later refined, and now the goal is to develop an AI model that can learn how to play by being given the game's instructions, making it adaptable to any two-player game.
+
+This is not meant to replace a second player, but rather to ensure that if someone doesn’t have a partner, they can still enjoy the game.
 
 # Articles about advances of AI in video games
 
@@ -61,3 +67,5 @@ The first step was idealize
 
     4 Listen to the sounds of the forest.
     ~~~
+
+    [click here to read more](https://www.techradar.com/computing/artificial-intelligence/i-asked-gemini-to-play-a-text-based-adventure-game-with-me-and-the-ai-whisked-me-away-to-a-word-based-fantasy)
