@@ -83,3 +83,28 @@ This is not meant to replace a second player, but rather to ensure that if someo
     - AI in Game Testing and Quality Assurance: Testing and quality assurance are critical in game development, and AI is accelerating the process. AI-driven bots can simulate thousands of gameplay scenarios, spotting bugs and glitches that might be overlooked by human testers. 
     
     [click here to read more](https://www.redbull.com/mea-en/how-artificial-intelligence-is-revolutionizing-the-world-of-video-games)
+
+7. **Otimizar desempenho do PC para jogos**
+
+    Software OMEN AI Beta, que permite optimizar o desempenho do PC ao nível do hardware e do software com um único clique, eliminando a necessidade de procurar as melhores definições para cada jogo.
+
+    [click here to read more](https://www.pcguia.pt/2025/01/hp-apresenta-o-novo-omen-max-16-e-um-software-de-optimizacao-de-jogos-com-inteligencia-artificial/)
+
+8. **AI in games**
+
+    **Google's use of AI in video games began with a critical development: creating an AI capable of recognizing game environments and reacting like a human player. In this early work, they introduced a deep reinforcement learning agent that could learn control strategies directly from gameplay. Central to this development was a convolutional neural network, trained using Q-learning, which processed raw screen pixels and converted them into game-specific actions based on the current state.**
+
+    Building on their early AI successes, Google set its sights on a more complex challenge: StarCraft II. This real-time strategy game is known for its complexity, as players must control armies, manage resources, and execute strategies in real-time. In 2019, Google introduced AlphaStar, an AI agent capable of playing StarCraft II professionally.
+
+    AlphaStar's development used a mix of deep reinforcement learning and imitation learning. It first learned by watching replays of professional players, then improved through self-play, running millions of matches to refine its strategies. This achievement demonstrated AI's ability to handle complex, real-time strategy games, achieving results that matched human players.
+
+    Unlike earlier models that required access to a game's source code or custom APIs, SIMA operates with two inputs: on-screen images and straightforward language commands. SIMA translates these instructions into keyboard and mouse actions to control the game's central character. This method allows it to interact with different virtual settings in a way that mirrors human gameplay. Research has shown that AI trained across multiple games performs better than those trained on a single match, highlighting SIMA's potential to drive a new era of generalist or foundation AI for games.
+
+    Google has expanded its focus from enhancing gameplay to developing tools that support game design. This shift is driven by advancements in generative AI, particularly in image and video generation. One significant development is using AI to create adaptive non-player characters (NPCs) that respond to player actions in more realistic and unpredictable ways.
+
+    Additionally, Google has explored procedural content generation, where AI assists in designing levels, environments, and entire game worlds based on specific rules or patterns. This method can streamline development and offer players unique, personalized experiences with each playthrough, sparking a sense of curiosity and anticipation. A notable example is Genie, a tool that enables users to design 2D video games by providing an image or a description.
+
+    Recently, they introduced GameNGen, a generative AI tool designed to simplify the game development process. GameNGen allows developers to build entire game worlds and narratives using natural language prompts, significantly cutting down the time and effort needed to create a game. By leveraging generative AI, GameNGen can generate unique game assets, environments, and storylines, enabling developers to focus more on creativity rather than technicalities. The technology behind GameNGen involves a two-phase training process. First, an AI agent is trained to play Doom, creating gameplay data. This data then trains a generative AI model that predicts future frames based on previous actions and visuals. The result is a generative diffusion model capable of producing real-time gameplay without traditional game engine components.
+
+    [click here to read more](https://www.unite.ai/from-atari-to-doom-how-google-is-redefining-video-games-with-ai/)
+
